@@ -1,0 +1,19 @@
+DESCRIPTION :
+
+DateMergerAssignment represents a Date Merger program intended to merge overlapping dates.
+DateMerger.java : Represents main class to merge dates
+DateRange : Represents model class
+
+REQUIREMENTS :
+java 1.8
+
+STEPS :
+1. Open/ import DataMerger project in IDE
+2. Run the main method in DateMerger.java
+
+
+
+
+
+
+
